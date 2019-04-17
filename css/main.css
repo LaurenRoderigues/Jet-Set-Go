@@ -1,0 +1,37 @@
+.container{
+  background-color: #ccc;
+}
+.colum{
+  padding: 2em;
+}
+#col-1{
+  background-color: #ffc;
+}
+#col-1{
+  background-color: #ffc;
+}
+h1{
+  font-family:
+  Font-weight:
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  max-width: 50%;
+}
+
+.airplane {
+  background-color: #d457a0;
+}
+.passport {
+  background-color: #1b998b;
+}
+.camera {
+  background-color: #dbf9f4;
+}
+.train {
+  background-color: #fcd7ad;
+}
