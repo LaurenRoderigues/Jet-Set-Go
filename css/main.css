@@ -2,7 +2,7 @@
   background-color: #ccc;
 }
 .colum{
-  padding: 2em;
+  padding: 1em;
 }
 #col-1{
   background-color: #ffc;
@@ -10,9 +10,23 @@
 #col-1{
   background-color: #ffc;
 }
-h1{
-  font-family:
-  Font-weight:
+h2{
+  font-family:'Anton', sans-serif;
+  Font-weight:2em
+  border: ;
+}
+.external-links {
+  list-style: none;
+  padding-left: 2;
+}
+.external-links li{
+  margin-top: 5em;
+}
+.external-links a {
+  display: inline-block;
+  color: #fff;
+  background-color: #000;
+  padding: 1em;
 }
 
 .logo {
@@ -22,7 +36,15 @@ h1{
 .logo img {
   max-width: 50%;
 }
-
+.back{
+  text-align: center;
+}
+.back{
+  max-width: 25%
+}
+.back{
+  max-height: inherit;
+}
 .airplane {
   background-color: #d457a0;
 }
